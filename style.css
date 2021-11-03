@@ -157,7 +157,7 @@ img.badge {
   margin: 50px auto 0 auto;
   padding: 0;
   font-size: 200%;
-  font-weight: 200;
+  font-weight: normal;
   line-height: 1.375;
   overflow: visible;
 }
@@ -235,7 +235,7 @@ h2,
 h3,
 h4 {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 200;
+  font-weight: bold;
 }
 
 h1 {
@@ -267,7 +267,7 @@ h3 {
 
 ul {
   list-style-position: inside;
-  font-weight: 300;
+  font-weight: normal;
   line-height: 2.25;
   padding: 0px 0 0 0px;
 }
