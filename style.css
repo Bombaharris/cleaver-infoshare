@@ -44,11 +44,6 @@ body {
   background-size: cover;
 }
 
-#slide-1 h1 {
-  font-weight: 200;
-  text-transform: uppercase;
-}
-
 #slide-1 h4 {
   text-align: center;
   -webkit-margin-before: .30em;
@@ -248,7 +243,6 @@ h1 {
 h2 {
   margin: 5px 0;
   font-size: 100%;
-  font-weight: 200;
   text-align: center;
   line-height: 1.2;
 }
