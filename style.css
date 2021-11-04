@@ -248,11 +248,11 @@ h2 {
 }
 
 h3 {
-  margin: 0 0 1.5em 0;
-  padding-left: 15px;
+  margin: 0 0 1.5em -0.95em;
+  padding-left: 0.95em;
   font-size: 140%;
   line-height: 1.2;
-  border-left: 15px solid #359b98;
+  border-left: 0.15em solid #359b98;
 }
 
 .bolder {
