@@ -66,7 +66,7 @@ body {
   color: #fff; 
 }
 
-#slide-1 h3, #slide-1 ol, #silde-1 ol {
+#slide-1 h3, #slide-1 ul, #silde-1 ol {
   display: none;
 }
 
